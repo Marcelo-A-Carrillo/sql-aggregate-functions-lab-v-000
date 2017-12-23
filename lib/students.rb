@@ -13,5 +13,5 @@ def total_tardies_for_all_students
 end
 
 def average_gpa_for_9th_grade
-  puts 'SELECT verage_gpa_for_9th_grade FROM students'
+  puts 'SELECT gpa FROM students'
 end
